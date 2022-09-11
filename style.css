@@ -1,0 +1,58 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  background-color: #fef9c3;
+}
+h1{
+  text-align: center;
+  background-color: #fde047;
+  padding: 3rem;
+  font-size: larger;
+  width: 60%;
+  margin-left: 15rem ;
+}
+
+.btn-container{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 90rem;
+}
+ #bday-input{
+  
+      display: flex;
+   justify-content: center;
+    text-align: center;
+/*     align-items: flex-start; */
+    cursor: default;
+    box-sizing:content-box  ;
+    background-color:#fde047;
+    
+    padding: 1rem 1rem;
+    border-width: 2px;
+    border-style: outset;
+    border-image: initial;
+   margin-bottom: 3rem;
+   margin-top: 3rem;
+   border-radius: 0.7rem;
+   width: 6rem
+}
+input{
+  dis ;
+}
+ 
+div{
+  display: flex;
+  flex-direction: column  ;
+}
+#show-btn{
+  display: flex;
+  justify-content: center;
+  width: 6rem;
+}
+.img>img {
+    width: 50rem;
+    height: 27rem;
+    margin-left: 40rem;
+}
